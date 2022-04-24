@@ -3,10 +3,12 @@ All my Certifications of Completion
 
 Differential Equations: Linear Algebra and NxN Systems of Differential Equations
 February 2022 to Present
+
 https://courses.edx.org/certificates/096cd376bed64af681350bf2182342b6
 
 Linear Models and Matrix Algebra
 January 2022 to Present
+
 https://courses.edx.org/certificates/ab7ae3be6c1e4b03bdbce65fec7fcbec
 
 Statistics and R
