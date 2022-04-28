@@ -40,76 +40,76 @@ Machine Learning
 July 2021 to Present
 
 Applied Machine Learning Foundations
-https://github.com/Pr0x1mo/Certifications/blob/main/CertificateOfCompletion_Applied%20Machine%20Learning%20Foundations.pdf
+https://github.com/Pr0x1mo/Certifications/blob/main/Applied%20Machine%20Learning%20Foundations.pdf
 
 C# Collections
 June 2021 to Present
 
 C# Collections
-https://github.com/Pr0x1mo/Certifications/blob/main/CertificateOfCompletion_C%20Collections.pdf
+https://github.com/Pr0x1mo/Certifications/blob/main/C%23%20Collections.pdf
 
-C Delegates Events and Lambdas
+C# Delegates Events and Lambdas
 June 2021 to Present
 
-C Delegates Events and Lambdas
-https://github.com/Pr0x1mo/Certifications/blob/main/CertificateOfCompletion_C%20Delegates%20Events%20and%20Lambdas.pdf
+C# Delegates Events and Lambdas
+https://github.com/Pr0x1mo/Certifications/blob/main/C%23%20Delegates%20Events%20and%20Lambdas.pdf
 
 C# Interfaces and Generics
 June 2021 to Present
 
 C# Interfaces and Generics
-https://github.com/Pr0x1mo/Certifications/blob/main/CertificateOfCompletion_C%20Interfaces%20and%20Generics.pdf
+https://github.com/Pr0x1mo/Certifications/blob/main/C%23%20Interfaces%20and%20Generics.pdf
 
 LINQ with C#
 June 2021 to Present
 
-https://github.com/Pr0x1mo/Certifications/blob/main/CertificateOfCompletion_LINQ%20with%20C%20Essential%20Training.pdf
+https://github.com/Pr0x1mo/Certifications/blob/main/LINQ%20with%20C%23.pdf
 
 C#
 June 2021 to Present
-https://github.com/Pr0x1mo/Certifications/blob/main/CertificateOfCompletion_Learning%20C.pdf
+https://github.com/Pr0x1mo/Certifications/blob/main/C%23.pdf
 
 R
 July 2021 to Present
 
-https://github.com/Pr0x1mo/Certifications/blob/main/CertificateOfCompletion_Learning%20R.pdf
+https://github.com/Pr0x1mo/Certifications/blob/main/R%20Language.pdf
 
 Node.js
 June 2021 to Present
 
-https://github.com/Pr0x1mo/Certifications/blob/main/CertificateOfCompletion_Node.js%20Essential%20Training.pdf
+https://github.com/Pr0x1mo/Certifications/blob/main/Node.js.pdf
 
 Power BI
 August 2021 to Present
 
-https://github.com/Pr0x1mo/Certifications/blob/main/CertificateOfCompletion_Power%20BI%20Essential%20Training.pdf
+https://github.com/Pr0x1mo/Certifications/blob/main/Power%20BI.pdf
 
 Program Databases with Transact-SQL
 June 2021 to Present
 
-https://github.com/Pr0x1mo/Certifications/blob/main/CertificateOfCompletion_Program%20Databases%20with%20TransactSQL.pdf
+https://github.com/Pr0x1mo/Certifications/blob/main/Program%20Databases%20with%20TransactSQL.pdf
 
 R Essential Training Wrangling and Visualizing Data
 October 2021 to Present
 
-https://github.com/Pr0x1mo/Certifications/blob/main/CertificateOfCompletion_R%20Essential%20Training%20Wrangling%20and%20Visualizing%20Data.pdf
+https://github.com/Pr0x1mo/Certifications/blob/main/R%20Wrangling%20and%20Visualizing%20Data.pdf
 
 React.js
 August 2021 to Present
 
-https://github.com/Pr0x1mo/Certifications/blob/main/CertificateOfCompletion_React.js%20Essential%20Training.pdf
+https://github.com/Pr0x1mo/Certifications/blob/main/React.js.pdf
 
 SQL Server Machine Learning Services Python
 August 2021 to Present
 
-https://github.com/Pr0x1mo/Certifications/blob/main/CertificateOfCompletion_SQL%20Server%20Machine%20Learning%20Services%20Python.pdf
+https://github.com/Pr0x1mo/Certifications/blob/main/SQL%20Server%20Machine%20Learning%20Services%20Python.pdf
 
 SQL Server Machine Learning Services R
 June 2021 to Present
 
-https://github.com/Pr0x1mo/Certifications/blob/main/CertificateOfCompletion_SQL%20Server%20Machine%20Learning%20Services%20R.pdf
+https://github.com/Pr0x1mo/Certifications/blob/main/SQL%20Server%20Machine%20Learning%20Services%20R.pdf
 
 Using Python for Automation
 September 2021 to Present
 
-https://github.com/Pr0x1mo/Certifications/blob/main/CertificateOfCompletion_Using%20Python%20for%20Automation.pdf
+https://github.com/Pr0x1mo/Certifications/blob/main/Python%20for%20Automation.pdf
